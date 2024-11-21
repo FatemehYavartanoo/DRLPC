@@ -7,7 +7,7 @@ Detailed information about [DRLPC: Dimension Reduction using Local Principal Com
 
 If you use this repository, please cite:
 
-DRLPC: Dimension Reduction using Local Principal Components for Gene-level Association Analysis. Yavartanoo, F., Brossard, M., Bull, S. B., Paterson, A. D., & Yoo, Y. J. DOI:
+Dimension Reduction using Local Principal Components for Regression-based Multi-SNP Analysis in 1000 Genomes and the Canadian Longitudinal Study on Aging (CLSA). Yavartanoo, F., Brossard, M., Bull, S. B., Paterson, A. D., & Yoo, Y. J. DOI:
 [https://doi.org/10.1101/2024.05.13.593724v1](https://www.biorxiv.org/content/10.1101/2024.05.13.593724v1.abstract)
 
 # License
