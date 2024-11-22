@@ -3,14 +3,13 @@ Dimension Reduction using Local Principal Components (DRLPC) is an approach for 
 
 Detailed information about [DRLPC: Dimension Reduction using Local Principal Components] can be found in our [preprint](https://www.biorxiv.org/content/10.1101/2024.05.13.593724v1.abstract).
 
-## ** Overviwe of DRLPC algorithm** ##
+## **Overviwe of DRLPC algorithm** ##
 
 ## **DRLPC algorithm** ##
 Step 1: SNPs are clustered using the clique-based algorithm (CLQ).
 Step 2: Clusters are replaced by Local PCs.
 Step 3: Removed variables with high VIF in the updated dataset.
 Step 4: Add additional PCs obtained by the removed SNPs.
-
 
 ![DRLPC Algorithm](DRLPC-algorithm.png)
 
