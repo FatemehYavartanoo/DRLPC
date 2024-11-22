@@ -11,7 +11,9 @@ Step 2: Clusters are replaced by Local PCs.
 Step 3: Removed variables with high VIF in the updated dataset.  
 Step 4: Add additional PCs obtained by the removed SNPs.
 
-<img src="DRLPC-algorithm.png" alt="DRLPC Algorithm" width="600">
+<div align="center">
+    <img src="DRLPC-algorithm.png" alt="DRLPC Algorithm" width="600">
+</div>
 
 
 
