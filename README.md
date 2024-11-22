@@ -6,13 +6,13 @@ Detailed information about [DRLPC: Dimension Reduction using Local Principal Com
 ## **Overviwe of DRLPC algorithm** ##
 
 ## **DRLPC algorithm** ##
-
 Step 1: SNPs are clustered using the clique-based algorithm (CLQ).  
 Step 2: Clusters are replaced by Local PCs.  
 Step 3: Removed variables with high VIF in the updated dataset.  
 Step 4: Add additional PCs obtained by the removed SNPs.
 
-![DRLPC Algorithm](DRLPC-algorithm.png)
+<img src="DRLPC-algorithm.png" alt="DRLPC Algorithm" width="600">
+
 
 
 
