@@ -16,6 +16,7 @@ Step 4: Add additional PCs obtained by the removed SNPs.
 </div>
 
 
+
 ##**Usage Instructions**##
 To use the DRLPC function:
 1. Download the `DRLPC_main_function.R` script from this repository.
