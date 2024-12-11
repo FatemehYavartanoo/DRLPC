@@ -17,7 +17,7 @@ Step 4: Add additional PCs obtained by the removed SNPs.
 
 
 
-##**Usage Instructions**##
+### **Usage Instructions** ###
 To use the DRLPC function:
 1. Download the `DRLPC_main_function.R` script from this repository.
 2. Follow the instructions in the [DRLPC_UserGuide.pdf](DRLPC_UserGuide.pdf) to prepare your data and run the analysis.
