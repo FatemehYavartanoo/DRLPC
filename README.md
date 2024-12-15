@@ -12,9 +12,8 @@ Step 3: Removed variables with high VIF in the updated dataset.
 Step 4: Add additional PCs obtained by the removed SNPs.
 
 <div align="center">
-    <img src="DRLPC-algorithm.png" alt="DRLPC Algorithm" width="600">
+    <img src="docs/DRLPC-algorithm.png" alt="DRLPC Algorithm" width="600">
 </div>
-
 
 
 ## **Usage Instructions** ##
