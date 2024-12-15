@@ -7,5 +7,11 @@ This folder contains additional resources and documentation for the DRLPC projec
   - Running the DRLPC algorithm.
   - Interpreting the outputs.
 
-To view the detailed instructions, refer to [DRLPC_UserGuide.pdf](./DRLPC_UserGuide.pdf).
+
+- **DRLPC-algorithm.png**: A figure illustrating the DRLPC algorithm.
+
+To view the detailed instructions, refer to [DRLPC_UserGuide.pdf](DRLPC_UserGuide.pdf).
+
+To view the DRLPC algorithm figure, click on [DRLPC-algorithm.png](DRLPC-algorithm.png).
+
 
