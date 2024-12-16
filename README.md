@@ -15,12 +15,28 @@ Step 4: Add additional PCs obtained by the removed SNPs.
     <img src="docs/DRLPC-algorithm.png" alt="DRLPC Algorithm" width="600">
 </div>
 
+## **Usage Instructions**
 
-## **Usage Instructions** ##
-To use the DRLPC function:
-1. Download the `DRLPC_main_function.R` script from this repository.
-2. Follow the instructions in the [DRLPC_UserGuide.pdf](./docs/DRLPC_UserGuide.pdf) to prepare your data and run the analysis.
+### **To use the DRLPC algorithm, follow these steps:**
 
+### **1. Download Files**
+- Download the **`example_DRLPC_run.R`** script (main example script) from the **root directory**.
+- The core functions for the algorithm are provided in **`DRLPC_all_functions.R`**, located in the **`source/`** folder.
+
+---
+
+### **2. Prepare Input Data**
+- Ensure the input files are correctly formatted and placed in the **`data/`** folder:
+  - **`SNPinfo.rds`**: Contains SNP information, including IDs and positions.
+  - **`genotype_data.rds`**: Genotype data for individuals and SNPs.
+  - **`geneSNPinfo.rds`**: Mapping of genes to associated SNPs.
+
+---
+
+### **3. Source Core Functions**
+To load the **DRLPC_all_functions.R** file, add the following line to your script:
+```R
+source("DRLPC/source/DRLPC_all_functions.R")
 
 
 ## **Citation** ##
