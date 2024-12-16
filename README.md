@@ -40,7 +40,9 @@ To load the **DRLPC_all_functions.R** file, add the following line to your scrip
 ```R
 source("DRLPC/source/DRLPC_all_functions.R")
 
+Detailed information about [DRLPC: Dimension Reduction using Local Principal Components] can be found in our [preprint](https://www.biorxiv.org/content/10.1101/2024.05.13.593724v1.abstract).
 
+## **Overviwe of DRLPC algorithm** ##
 
 
 
