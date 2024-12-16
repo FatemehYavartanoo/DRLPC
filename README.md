@@ -38,7 +38,7 @@ To load the **DRLPC_all_functions.R** file, add the following line to your scrip
 ```R
 source("DRLPC/source/DRLPC_all_functions.R")
 
-## **Citation**
+## **Citation** ##
 
 If you use this repository, please cite:
 
@@ -48,7 +48,7 @@ DOI: [https://doi.org/10.1101/2024.05.13.593724v1](https://www.biorxiv.org/conte
 
 ---
 
-## **License**
+## **License** ##
 
 This package is released under the [GNU General Public License (GPL) v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
