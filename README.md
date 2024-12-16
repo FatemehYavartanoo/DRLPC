@@ -33,7 +33,7 @@ Step 4: Add additional PCs obtained by the removed SNPs.
 
 ---
 
-## 3. Source Core Functions
+### **3. Source Core Functions**
 
 To load the **DRLPC_all_functions.R** file, add the following line to your script:
 
