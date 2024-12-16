@@ -9,19 +9,17 @@ This folder contains additional resources and documentation for the DRLPC projec
 
 - **DRLPC_algorithm.png**: A figure illustrating the DRLPC algorithm.
 
-- **DRLPC_final_results.rds**: The processed results after running the DRLPC algorithm. This file contains the reduced dimensions and results for the analyzed genes.
+- **DRLPC_final_results.rds**: The results are processed after running the DRLPC algorithm. This file contains the reduced dimensions and results for the analyzed genes.
 
 To view the detailed instructions, refer to [DRLPC_UserGuide.pdf](DRLPC_UserGuide.pdf).
 
 To view the DRLPC algorithm figure, click on [DRLPC-algorithm.png](DRLPC-algorithm.png).
 
-To load the DRLPC final results in R:
+
+### DRLPC Final Results  
+The complete results file, **`DRLPC_final_results.rds`**, can be found in the `docs` folder.  
+To load the file into R for further analysis, use the following command:  
 ```R
-# Load DRLPC results
-results <- readRDS("docs/DRLPC_final_results.rds")
-
-# View the first few rows
-head(results)
-
+DRLPC_results <- readRDS("docs/DRLPC_final_results.rds")
 
 
